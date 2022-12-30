@@ -37,5 +37,16 @@ Open a terminal/command prompt, cd to the folder containing the get-pip.py file 
     $ python YTDownloader.py
 ```
 
+## How to use
 
+- get URL from youtube page to clipboard (without stuff after url video `&ab_channel=WardCarroll` - something like this)
+- start script from terminal:
 
+```Shell
+    $ python YTDownloader.py
+```
+
+- paste url adress from clipboard to terminal `Youtube URL:` and press Enter
+- wait untill message `Download Complete!` has shown.
+
+your video in root folder of your app.
