@@ -6,7 +6,7 @@ def Download(link):
   try:
       youtubeObject.download()
   except:
-    print("Something weng wrong")
+    print("Something went wrong")
   print("Download Complete!")
 
 link = input("Youtube URL:")
